@@ -1,0 +1,86 @@
+body {background-image: url(X-men\ Team\ 13.jpg);
+    margin: 0px;}
+
+.favorites {
+    column-count: 3;
+    text-align: center;
+    background-color: gray;
+    border:solid;
+}
+
+.avatar {border-radius: 50%;
+    border: solid;
+    border-color: red;
+    border-width: medium;
+    width: 60%;
+    margin-left: 70%;
+    }
+
+.column1 {
+    column-count: 2;
+    column-gap: 20px;
+    background-color: orangered;
+    border:solid;
+}
+
+.header {
+    margin-top: 2%;
+    text-align: center;
+border: solid;
+border-width: thin;
+background-color: black;
+color: white;
+opacity: .87;}
+
+
+.row {float: left;
+    width: 100%;}
+
+.row1 {float: left;
+        width: 100%;}
+
+.column1 {
+    float: left;
+    width: 49%;
+    padding: 0px;
+    border: solid;
+    border-width: thin;
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: .87;
+}
+
+.column {
+    margin-top: .5%;
+    margin-left: 3px;
+    float: left;
+    margin-left: 0%;
+    width: 32%;
+    padding: 0px;
+    border: solid;
+    border-width: thin;
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: .87;
+}
+
+.footer {
+    margin-left: 40%;
+    border-color: black;
+    margin-top:25%;
+    width: 20%;
+    text-align: center;
+    border: solid;
+    border-width: thin;
+    background-color: black;
+    color: white;
+    opacity: .87;
+}
+
+  h3, h2, h1, .footer p {color: red; text-align: center;}
+
+  a {
+    color: white;
+}
